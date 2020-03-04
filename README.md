@@ -16,6 +16,7 @@ It has a real clock timer running like in the original KBC game. So, if you don'
 Two lifelines have also been added to make the game more interesting:
 
 50-50: you can choose two options
+
 SKIP: you can request for a change of the question
 
 
